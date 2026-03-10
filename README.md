@@ -5,16 +5,15 @@
 
 ---
 
+
 <p align="center">
   <img
-    src="(https://github.com/user-attachments/assets/052b627c-f00d-4e77-be58-43ccc0211f33)
-
+    src="![Screenshot 2026-03-10 140926](https://github.com/user-attachments/assets/ec279ff1-9bf1-4b00-bef3-044cb4d60782)
 "
     alt="Bookified App Preview"
     width="700"
   />
 </p>
-
 ---
 
 ## 🚀 Overview
